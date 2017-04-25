@@ -11,3 +11,4 @@ This module is very easy of use. Install it as usual and select the block from t
 - Russian
 - Polish
 - Czech
+- Slovak
